@@ -78,7 +78,7 @@ class CopyPersistent(object):
         self.registered = []
 
     def id(self, obj):
-        hook = interfaces.ICopyHook(obj, None)
+        hook = interfaces.ICopyHook(obj)
         if hook is not None:
             oid = id(obj)
             if oid in self.pids_by_id:
