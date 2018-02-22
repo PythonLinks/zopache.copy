@@ -17,10 +17,10 @@
 import tempfile
 
 from zopache.copy import interfaces
-from zope.copy._compat import Pickler
-from zope.copy._compat import Unpickler
-from zope.copy._compat import _get_pid
-from zope.copy._compat import _get_obj
+from zopache.copy._compat import Pickler
+from zopache.copy._compat import Unpickler
+from zopache.copy._compat import _get_pid
+from zopache.copy._compat import _get_obj
 
 def clone(obj):
     """Clone an object by pickling and unpickling it"""
