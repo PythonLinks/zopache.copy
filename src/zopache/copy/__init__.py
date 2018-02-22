@@ -1,3 +1,6 @@
+#Subject to the CV License Agreement. 
+#This file has been modied to use cromlech
+#registries.
 ##############################################################################
 #
 # Copyright (c) 2009 Zope Foundation and Contributors.
@@ -13,7 +16,7 @@
 ##############################################################################
 import tempfile
 
-from zope.copy import interfaces
+from zopache.copy import interfaces
 from zope.copy._compat import Pickler
 from zope.copy._compat import Unpickler
 from zope.copy._compat import _get_pid
