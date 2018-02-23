@@ -9,10 +9,10 @@ and permission to process your personal information for the purposes of
 recruiting. Basically if you are smart enough to understand
 why this software is so good, you are a very valuable developer.
 
-Onto the specifics.  Primarily this software is subject to the Zope
-PUblic License.  WHile the Zope corporation is no more, the ZPL lets you do whatever you want with the software just include their licesne, and give them credit.
+Onto the specifics. The softwre I wrote, I am licensing under a CV license.
+The software which I use is generally either an MIT License or a Zope License.
+If your organization really really cares about licenses, it would be good
+to check the details of the different packages.  I am quite sure that there is
+no GPL or LGPL.  
 
-I added three clauses to the ZPL. The CV License.  If you use the software, send me
-a copy of your CV, and say that you give me permission to process your professional
-information for recruiting purposes.  Include the CV Licesne with the distriuted software.
-and give credit to Cromlech as well as Zope.
+You can read the ZPL and CV licenses in thsi directory.  

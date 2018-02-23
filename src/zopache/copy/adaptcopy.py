@@ -2,7 +2,7 @@
 
 #SO WHAT IS GOING ON HERE?
 import crom
-from zope.copy.interfaces import ICopyHook, ResumeCopy
+from zopache.copy.interfaces import ICopyHook, ResumeCopy
 from zope.interface import Interface
 
 
